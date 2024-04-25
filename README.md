@@ -1,6 +1,6 @@
 👋 Hi, I’m @parth-purani
 
-👀 I’m interested in innovative software solutions, system integration, and enhancing security measures in digital environments.
+👀 I’m interested in innovative software solutions, system integration,IOT and enhancing security measures in digital environments.
 
 🌱 I’m currently learning advanced cloud architectures and exploring new advancements in network security.
 
